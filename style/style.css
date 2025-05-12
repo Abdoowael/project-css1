@@ -1117,6 +1117,7 @@ nav .navbar ul li:hover a{
     display: grid;
     grid-template-columns: repeat(3,1fr);
     gap: 50px;
+    overflow-x: hidden;
    }
    .footer .container .card .img{
     display: flex;
